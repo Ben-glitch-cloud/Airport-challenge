@@ -23,17 +23,13 @@ namespace Airport_Challenge
 
         public static Weather weather = new Weather();   
 
+        // capcity of the airport 
         public static int capcity = 2; 
 
-        
         public static void Main() 
-        {    
-            // Weather weather = new Weather();  
+        {   
 
-            Land_Plan(); 
-            Land_Plan();  
-            Land_Plan();  
-            Hanger(); 
+          // Call method here
            
         }    
 
