@@ -1,0 +1,15 @@
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/bin/Debug/net5.0/Airport_Challenge.deps.json
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/bin/Debug/net5.0/Airport_Challenge.runtimeconfig.json
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/bin/Debug/net5.0/Airport_Challenge.runtimeconfig.dev.json
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/bin/Debug/net5.0/Airport_Challenge.dll
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/bin/Debug/net5.0/ref/Airport_Challenge.dll
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/bin/Debug/net5.0/Airport_Challenge.pdb
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/obj/Debug/net5.0/Airport_Challenge.csproj.AssemblyReference.cache
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/obj/Debug/net5.0/Airport_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/obj/Debug/net5.0/Airport_Challenge.AssemblyInfoInputs.cache
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/obj/Debug/net5.0/Airport_Challenge.AssemblyInfo.cs
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/obj/Debug/net5.0/Airport_Challenge.csproj.CoreCompileInputs.cache
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/obj/Debug/net5.0/Airport_Challenge.dll
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/obj/Debug/net5.0/ref/Airport_Challenge.dll
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/obj/Debug/net5.0/Airport_Challenge.pdb
+/Users/benlawrence/Desktop/Projects_Makes/Airport_Challenge/obj/Debug/net5.0/Airport_Challenge.genruntimeconfig.cache
