@@ -32,10 +32,9 @@ namespace Airport_Challenge
         public static void Main() 
         {   
 
-            //   
-            Land_Plan();
-            Land_Plan();
-            Hanger();
+            //  Call methods here
+            //  For example  
+            // Land_Plan(); 
            
         }    
 
