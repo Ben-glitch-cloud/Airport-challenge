@@ -12,31 +12,34 @@ namespace Airport_Challenge
         public string DayWeather() 
         {   
             Random random = new Random(); 
-            string[] weather = {"Sun", "Rain", "Stormy", "Snow", "Sun"};   
+            string[] weather = {"Sun", "Rain", "Stormy", "Snow", "Sun"} 
             string[] weatherDay = weather.OrderBy(x => random.Next()).ToArray(); 
-            return weatherDay[0];  
+            return weather[0];  
         }
     }
     class Program
-    {    
-        public static List<string> item = new List<string>();     
+    {       
 
+        // calling the weather method
         public static Weather weather = new Weather();   
 
-        // capcity of the airport 
-        public static int capcity = 2; 
+        // capcity of the airport is 2 
+        public static int capcity = 2;  
+
+        // A list 
+        public static List<string> item = new List<string>();  
 
         public static void Main() 
         {   
 
-          // Call method here
+            //   
+            Land_Plan();
+            Land_Plan();
+            Hanger();
            
         }    
 
-        public static void Hanger()
-        {
-            Console.WriteLine("Number plans in the Hunger is " + item.Count + ".");  
-        }
+        public static void Hanger() => Console.WriteLine("Number plans in the Hunger is " + item.Count + "."); 
 
         public static void Land_Plan() 
         {
