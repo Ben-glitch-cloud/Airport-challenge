@@ -12,7 +12,7 @@ namespace Airport_Challenge
         public string DayWeather() 
         {   
             Random random = new Random(); 
-            string[] weather = {"Sun", "Rain", "Stormy", "Snow", "Sun"} 
+            string[] weather = {"Sun", "Rain", "Stormy", "Snow", "Sun"};  
             string[] weatherDay = weather.OrderBy(x => random.Next()).ToArray(); 
             return weather[0];  
         }
